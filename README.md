@@ -1,6 +1,6 @@
-# Hackathon en groupe réalisé après le 1er mois de formation (36h - le 21/12/2021)
+# 🚀 Hackathon en groupe réalisé après le 1er mois de formation (36h - le 21/12/2021)
 
-## Description : 
+## 📝 Description : 
 
 Le hackathon avait pour but de comprendre REACT et et la consommation d'API vu dans la semaine. <br/>
 
@@ -14,7 +14,7 @@ Le chat renvoie des réponses automatique en fonction de la discussion, nous pou
 
 Un hackathon intense qui nous a permis de découvrir énormement de nouvelles fonctionnalités, notamment dans REACT.
 
-## ScreenShots : 
+## 📸 ScreenShots : 
 
 <img src="https://github.com/leoPinchon/starLove/blob/main/apercu/starLoveHome2.png">
 <img src="https://github.com/leoPinchon/starLove/blob/main/apercu/starLoveChat.png">
